@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(mis.jfif);
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
 }
 
 .wrapper {
